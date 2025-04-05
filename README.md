@@ -1,6 +1,7 @@
 # Laboratorio2-Database
 
 #integrantes
+
 Diego Humberto Hernández Flores u20230524
 
 Orlin David Manzanares Salvaco u20230311
