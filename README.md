@@ -1,4 +1,4 @@
-# Laboratorio2-Database
+# Laboratorio2-Database grupo-4
 
 #integrantes
 
